@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Journey to Search the Ogre's Donkey</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div id="top" class="container">
+
+        <div class="section">
+            <h1>Ogre's Quest:</h1>
+            <h2>Search of the Donkey</h2>
+            <h3>First Edition</h3>
+
+        </div>
+
+            <div>
+                    <iframe src="https://replit.com/@bncprado/SkyGame?embed=true" width="753" height="400">
+                    </iframe>
+            </div>
+
+
+        <div class="section">
+            <h2>About the game</h2>
+            <table>
+                <tr>
+                    <p>Welcome to Ogre's Quest: In Search of Donkey, a thrilling adventure game where you, the player, embark on a journey through a dark and mysterious forest filled with hidden dangers and unexpected surprises.
+
+                        As you venture deeper into the forest, you will encounter a variety of characters, both friendly and foe alike. You will need to use your quick wit and cunning to navigate your way through this treacherous landscape, making decisions based on the clues you find and the random outcomes that occur.
+                        
+                        Every decision you make will have consequences, and with each new path you take, you will face new challenges and potential outcomes. The clock is ticking, and with only five minutes to find the donkey, you must act fast and make quick decisions if you hope to succeed.
+                        
+                        As you explore the forest, you will discover hidden paths, secret clues, and unexpected challenges. The forest is a mysterious place, and you never know what lies around the next corner. Will you encounter a friendly fairy who can help guide you on your way, or will you stumble upon a dangerous troll lurking in the shadows?
+                        
+                        The game is designed to be replayable, offering a different experience each time you play. With so many paths to explore and potential outcomes to uncover, the game is filled with endless possibilities and challenges.
+                        
+                        Ogre's Quest: In Search of Donkey is not for the faint of heart, but for those brave enough to face the challenges ahead, the rewards are well worth the risk. So, are you ready to embark on this exciting adventure and discover the secrets hidden within the forest? The clock is ticking, and time is running out. The fate of the donkey rests in your hands!
+                        
+                        
+                        For the first time ever you get to play as the Ogre's friend, looking for his old donkey. You
+                        get to
+                        pick between multiple directions and consider your next steps. Will you find the donkey on time?
+                    </p>
+                </tr>
+            </table>
+        </div>
+
+
+        <div class="container">
+            <div class="box1">
+                <h3 >What went well in the project</h3>
+                <ul>
+                    <li>We used the "Live Share" extension on VSC so everybody could code and see what changes others were
+                        doing.
+                        We were able to collaborate smoothly, which was very useful.</li>
+                    <li>One of the team members had a good knowledge of coding and this allowed the team to be more
+                        efficient.</li>
+                    <li>Interaction between team members went really well and everyone actively contributed when
+                        required.</li>
+                </ul>
+               
+
+            </div>
+        </div>
+        <div class="container">
+            <div class="box1"><h3>What you would do differently next time</h3>
+                <ul>
+                    <li>We would split the work load better and delegate more or less functions to each member of the team.</li>
+                    <li>Involve every members of the team in writing of the code, which would allow us to understand it
+                        better.</li>
+                    <li>Make the game looks visually more pleasant and persuasive. </li>
+                </ul></div>
+            </div>
+
+            <li>Go back to the<a href="#top">top</a></li>
+         </div>
+         <p>© 2023 Oger's Quest: Search of the Donkey</p>
+         <p>Developed by : Metellus , Bruno Prado, Victor, Tamir, Artful</p>  
+    </div>
+</body>
+
+
+
+
+
+
+
+
+NORTH
+In travelling North, the player is given a directive to follow THE MUDDY FOOT PATH. In travelling North, there’s a (randomized) chance the player will meet Snakes(friend/foe).There’s a (randomized) chance the snake/s give the player clues to either; 1.  travel to the CAVES or, 2. Direct the player to the bats, or 3. continue on THE MUDDY FOOT PATH towards the SWAMP. Before reaching the SWAP the player (may/may not) find Blood (clue). This clue gives the player a (randomized) choice to either; 1. go to the CAVE where the donkey is found, or 2. go to the SWAMP where the player meets Ogre who tells the player that it is a dead end as the SWAMP is unpassable because of flesh eating fish. This means the player would be forced to go to the beginning and start again by choosing a direction.
+
+SOUTH
+In travelling South, the player is given a directive to follow THE ROCKY FOOT PATH. In travelling South, there’s a (randomized) chance the player will find Footprints (clue). There’s a (randomized) chance this clue will tell the player to either; 1. Go to the SWAMP, 2. Go to the FARM, or 3. Stay on THE ROCKY FOOT PATH that leads to FIND THE DONKEY AND WIN THE GAME. Further along THE ROCKY FOOT PATH, there’s a (randomized) chance the player will meet Bates(friend/foe) continuing to the CAVES where the donkey is found.
+
+WEST
+In travelling West, the player is given a directive to follow THE DANGEROUS OBSTACLE PATH. In travelling West, there’s a (randomized) chance the player will find Poisonous Spiders(friend/foe). There’s a (randomized) chance the Poisonous Spiders will either; 1. Attack and kill the player, 2. attack but not kill the player, 3. Do not attack the player. Further along THE DANGEROUS OBSTACLE PATH there’s a (randomized) chance the player will meet the Horse(friend/foe). There’s a (randomized) chance the Horse will either; 1. Attack and kill the player, 2. attack but not kill the player, 3. Do not attack the player. Further along THE DANGEROUS OBSTACLE PATH there’s a (randomized) chance the player will find Blood (clue). This clue gives the player a (randomized) choice to either; 1. go to the CAVE where the donkey is found, or 2. go to the TAVERN in the KINGDOM. Further along THE DANGEROUS OBSTACLE PATH there’s a (randomized) chance the player will find the donkey’s rug (clue). This clue gives the player a choice to either; 1. go to directly to the FARM bypassing the Farmer or, 2. Continue along THE DANGEROUS OBSTACLE PATH to meet the Farmer(friend/foe). If the player meets the Farmer, the Farmer tell the player to look in the CAVES for the donkey. 
+
+EAST
+In travelling East, the player is given a directive to follow GRASS & MEADOWS PATH. In travelling East, there’s a (randomized) chance the player will meet Rabbit(friend/foe). There’s a (randomized) chance the Rabbit will either; 1. Tell the player that the donkey is eating hay or, 2. Tell the player to continue along the GRASS & MEADOWS PATH. Further along the GRASS & MEADOWS PATH there’s a (randomized) chance the player will meet Birds(friend/foe) will either; 1. Look in the CAVES for the donkey or, 2. Tell the player to continue along the GRASS & MEADOWS PATH. Further along the GRASS & MEADOWS PATH the player will reach the TAVERN in the KINGDOM. Here the player must return to the beginning and choose a direction once more.
